@@ -27,8 +27,8 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] _[Project - React Tests](https://github.com/lramos33/project-react-tests)_
 - [x] _[Project - Trybe Wallet](https://github.com/lramos33/project-trybe-wallet)_
 - [x] _[Project - Trivia Game](https://github.com/lramos33/project-trivia-game)_
-- [] _[Project - StarWars Datatable]()_
-- [] _[Project - Recipe App]()_
+- [ ] _[Project - StarWars Datatable]()_
+- [ ] _[Project - Recipe App]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
