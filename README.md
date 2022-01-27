@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todos os projetos de aprendizagem desenvolvidas por _[Leonardo Ramos de Oliveira](https://www.linkedin.com/in/lramo33/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todos os projetos de aprendizagem desenvolvidas por _[Leonardo Ramos de Oliveira](https://www.linkedin.com/in/lramos33/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia."_
 
@@ -33,9 +33,21 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 - [x] _[Project - Docker To Do List]()_
+- [ ] _[Project - MySQL All For One]()_
 
 ## [...]
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
 ## [...]
+
+_**Nota:**_ Alguns dos projetos deste repositório possuem a tag `⏳ In progress` por alguns motivos:
+  - Estilização/CSS do projeto não finalizada;
+  - Requisitos bônus não finalizados;
+  - README, descrição ou demonstração não finalizada.
+
+Sinta-se livre para clonar cada um dos projetos e testar suas funcionalidades.
+
+---
+
+Made with ♥ by Leonardo Ramos 👋 [Get in touch!](https://www.linkedin.com/in/lramos33/)
