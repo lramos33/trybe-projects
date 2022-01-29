@@ -28,12 +28,12 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] _[Project - Trybe Wallet](https://github.com/lramos33/project-trybe-wallet)_
 - [x] _[Project - Trivia Game](https://github.com/lramos33/project-trivia-game)_
 - [x] _[Project - Star Wars Datatable](https://github.com/lramos33/project-starwars-datatable)_
-- [x] _[Project - Recipe App]()_
+- [x] _[Project - Recipe App](https://github.com/lramos33/project-recipe-app)_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-- [x] _[Project - Docker To Do List]()_
-- [ ] _[Project - MySQL All For One]()_
+- [x] _[Project - Docker To Do List](https://github.com/lramos33/project-docker-to-do-list)_
+- [x] _[Project - MySQL All For One](https://github.com/lramos33/project-mysql-all-for-one)_
 
 ## [...]
 
