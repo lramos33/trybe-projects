@@ -35,7 +35,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] _[Project - Docker To Do List](https://github.com/lramos33/project-docker-to-do-list)_
 - [x] _[Project - MySQL All For One](https://github.com/lramos33/project-mysql-all-for-one)_
 - [x] _[Project - MySQL One For All](https://github.com/lramos33/project-mysql-one-for-all)_
-- [ ] _[Project - Talker Manager](https://github.com/lramos33/project-talker-manager)_
+- [x] _[Project - Talker Manager](https://github.com/lramos33/project-talker-manager)_
 
 ## [...]
 
