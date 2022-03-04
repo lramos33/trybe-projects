@@ -44,7 +44,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 ## [...]
 
-_**Nota:**_ Alguns dos projetos deste repositório possuem a tag `⏳ In progress` por alguns motivos:
+_**Nota:**_ Alguns dos projetos deste repositório possuem a tag `⏳ In progress` por motivos de:
   - Estilização/CSS do projeto não finalizada;
   - Requisitos bônus não finalizados;
   - README, descrição ou demonstração não finalizada.
