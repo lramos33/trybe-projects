@@ -39,6 +39,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] _[Project - Store Manager](https://github.com/lramos33/project-store-manager)_
 - [x] _[Project - Blogs API](https://github.com/lramos33/project-blogs-api)_
 - [x] _[Project - Stranger Things](https://github.com/lramos33/project-stranger-things)_
+- [x] _[Project - Trybesmith](https://github.com/lramos33/project-trybesmith)_
 
 ## [...]
 
