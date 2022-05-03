@@ -41,7 +41,10 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] _[Project - Stranger Things](https://github.com/lramos33/project-stranger-things)_
 - [x] _[Project - Trybesmith](https://github.com/lramos33/project-trybesmith)_
 - [x] _[Project - Trybers and Dragons](https://github.com/lramos33/project-trybers-and-dragons)_
-- [ ] _[Project - Trybe Futebol Club]()_
+- [x] _[Project - Trybe Futebol Club](https://github.com/lramos33/project-trybe-futebol-clube)_
+- [ ] _[Project - Commerce]()_
+- [ ] _[Project - Car Shop]()_
+- [ ] _[Project - Delivery App]()_
 
 ## [...]
 
