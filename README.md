@@ -46,8 +46,6 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] _[Project - Car Shop]()_
 - [ ] _[Project - Delivery App]()_
 
-## [...]
-
 ## Ciência da Computação :hourglass_flowing_sand:
 
 ## [...]
