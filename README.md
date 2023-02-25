@@ -45,14 +45,15 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] _[Project - Commerce](https://github.com/lramos33/project-commerce)_
 - [x] _[Project - Car Shop](https://github.com/lramos33/project-car-shop)_
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação :heavy_check_mark:
 
-## [...]
+- [x] _[Project - Job Insights]()_
+- [x] _[Project - Inventory Report]()_
+- [x] _[Project - Tech News]()_
+- [x] _[Project - Algorithms]()_
+- [x] _[Project - TING - Trybe Is Not Google]()_
+- [x] _[Project - Restaurant Orders]()_
 
-_**Nota:**_ Alguns dos projetos deste repositório não possuem estilização/CSS pois o objetivo era a construção da parte lógica e funcional da aplicação.
-
-Sinta-se livre para clonar cada um dos projetos e testar suas funcionalidades.
-
----
+##
 
 Made with ♥ by Leonardo Ramos 👋 [Get in touch!](https://www.linkedin.com/in/lramos33/)
