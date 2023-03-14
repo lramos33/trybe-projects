@@ -1,10 +1,10 @@
 # Trybe
 
-💻 This is a repository to link all the projects I developed while studying at Trybe [Trybe](https://www.betrybe.com/)
+💻 This is a repository to link all the projects I developed while studying at [Trybe](https://www.betrybe.com/).
 
 Trybe is a school of the future for anyone who wants to improve their life and build a successful career in technology. The program offers more than 1,500 hours of online classes, covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, behavioral skills, and soft skills.
 
-_P.S.: For personal reasons I've made all repositories private, but if you want to ask any questions or check one of these projects, just tell me 😃_
+_*P.S.:* For personal reasons, I've made all these repositories private, but if you want to ask any questions or check one of these projects, just tell me 😃._
 
 ## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
