@@ -47,12 +47,12 @@ _*P.S.:* For personal reasons, I've made all these repositories private, but if 
 
 ## Ciência da Computação :heavy_check_mark:
 
-- [x] _[Project - Job Insights]()_
-- [x] _[Project - Inventory Report]()_
-- [x] _[Project - Tech News]()_
-- [x] _[Project - Algorithms]()_
-- [x] _[Project - TING - Trybe Is Not Google]()_
-- [x] _[Project - Restaurant Orders]()_
+- [x] _[Project - Job Insights](https://github.com/lramos33/project-job-insights)_
+- [x] _[Project - Inventory Report](https://github.com/lramos33/project-inventory-report)_
+- [x] _[Project - Tech News](https://github.com/lramos33/project-tech-news)_
+- [x] _[Project - Algorithms](https://github.com/lramos33/project-algorithms)_
+- [x] _[Project - TING - Trybe Is Not Google](https://github.com/lramos33/project-ting)_
+- [x] _[Project - Restaurant Orders](https://github.com/lramos33/project-restaurant-orders)_
 
 ##
 
