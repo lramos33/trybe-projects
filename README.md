@@ -6,7 +6,7 @@ Trybe is a school of the future for anyone who wants to improve their life and b
 
 _*P.S.:* For personal reasons, I've made all these repositories private, but if you want to ask any questions or check one of these projects, just tell me 😃_
 
-## Fundamentos do Desenvolvimento Web :heavy_check_mark:
+## Fundamentals of Web Development :heavy_check_mark:
 
 - [x] _[Project - Lessons Learned](https://github.com/lramos33/project-lessons-learned)_
 - [x] _[Project - Playground Functions](https://github.com/lramos33/project-playground-functions)_
@@ -18,7 +18,7 @@ _*P.S.:* For personal reasons, I've made all these repositories private, but if 
 - [x] _[Project - Shopping Cart](https://github.com/lramos33/project-shopping-cart)_
 - [x] _[Project - Asynchronous Jest and Mocking](https://github.com/lramos33/project-asynchronous-jest-and-mocking)_
 
-## Desenvolvimento Front-end :heavy_check_mark:
+## Front-end Development :heavy_check_mark:
 
 - [x] _[Project - Movie Cards Library](https://github.com/lramos33/project-movie-cards-library)_
 - [x] _[Project - Tryunfo](https://github.com/lramos33/project-tryunfo)_
@@ -30,7 +30,7 @@ _*P.S.:* For personal reasons, I've made all these repositories private, but if 
 - [x] _[Project - Star Wars Datatable](https://github.com/lramos33/project-starwars-datatable)_
 - [x] _[Project - Recipe App](https://github.com/lramos33/project-recipe-app)_
 
-## Desenvolvimento Back-end :heavy_check_mark:
+## Back-end Development :heavy_check_mark:
 
 - [x] _[Project - Docker To Do List](https://github.com/lramos33/project-docker-to-do-list)_
 - [x] _[Project - MySQL All For One](https://github.com/lramos33/project-mysql-all-for-one)_
@@ -45,7 +45,7 @@ _*P.S.:* For personal reasons, I've made all these repositories private, but if 
 - [x] _[Project - Commerce](https://github.com/lramos33/project-commerce)_
 - [x] _[Project - Car Shop](https://github.com/lramos33/project-car-shop)_
 
-## Ciência da Computação :heavy_check_mark:
+## Computer Science :heavy_check_mark:
 
 - [x] _[Project - Job Insights](https://github.com/lramos33/project-job-insights)_
 - [x] _[Project - Inventory Report](https://github.com/lramos33/project-inventory-report)_
