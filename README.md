@@ -4,7 +4,7 @@
 
 Trybe is a school of the future for anyone who wants to improve their life and build a successful career in technology. The program offers more than 1,500 hours of online classes, covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, behavioral skills, and soft skills.
 
-_*P.S.:* For personal reasons I've made all these repositories private, but if you want to ask any questions or check one of these projects, just tell me 😃_
+*P.S.:* For personal reasons I've made all these repositories private, but if you want to ask any questions or check one of these projects, just tell me 😃
 
 ## Fundamentals of Web Development :heavy_check_mark:
 
